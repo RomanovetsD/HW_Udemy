@@ -23,4 +23,6 @@ appData.expenses[a2] = b2;
 
 let oneDayBudget = appData.budget / 30;
 
-alert("Бюджет на 1 день будет составлять " + oneDayBudget + " грн.git add .");
+alert("Бюджет на 1 день будет составлять " + oneDayBudget + " грн.");
+
+console.log(appData);
